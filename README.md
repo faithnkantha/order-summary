@@ -22,8 +22,6 @@
 ![result](https://github.com/faithnkantha/order-summary/assets/99466752/82f21b0e-e33c-4522-9607-d994f047b24f)
 
 
-![](./result.png)
-
 
 ### Links
 
