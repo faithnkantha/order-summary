@@ -6,9 +6,13 @@ body
 
 .img
 {
+    /*background-image: url(images/illustration-hero.svg)*/
     position:absolute;
     top: 0%;
-    border-radius: 20px;
+
+    width:300px;
+    left:0px;
+
 
 }
 
@@ -18,13 +22,14 @@ h1
     justify-content: center;
     align-items: center;
     position: absolute;
-    height: 380px;
+    height: 550px;
     top:0% ;
     left: 25%;
     color: hsl(223, 47%, 23%);
-    background-color:hsl(225, 100%, 98%) ;
-    width: 300px;
+    background-color:hsl(225, 100%, 94%); 
+    width: 430px;
     border-radius: 20px;
+    overflow: hidden;
 }
 
 .title
@@ -39,7 +44,7 @@ p
     justify-content: center;
     align-items: center;
     position: absolute;
-    font-size: 13px;
+    font-size: 15px;
     top: 47% ;
     text-align: center;
     color:hsl(224, 23%, 55%); 
@@ -61,11 +66,15 @@ p
     padding: 6px
     ;
 }
+.button:hover{
+    background-color:hsl(224, 23%, 55%) ;
+}
 
 #music
 {
+    background-image: url(images/icon-music.svg);
     position: absolute;
-    top: 15%;
+    top: 19%;
     left: 5%;
 }
 
@@ -96,10 +105,13 @@ a
     color: hsl(245, 75%, 52%);
     font-size: 15px;
 }
+a:hover{
+    color:hsl(224, 23%, 55%);
+}
 
 .try 
 {
-    background-color:hsl(225, 100%, 94%); 
+    background-color:white; 
     position: absolute;
     top: 64%;
     width:250px;
@@ -110,8 +122,8 @@ a
 h3
 {
     position: absolute;
-    top: 62%;
-    left: 33%;
+    top: 98%;
+    left: 39%;
     text-align: center;
     font-size:  15px; 
     font-weight: bold;
@@ -122,8 +134,8 @@ h3
 .attribution
 {
     position: absolute;
-    top: 76%;
-    left: 33%;
+    top: 115%;
+    left: 38%;
     text-align: center;
     font-size:  15px; 
     font-weight: bold;
