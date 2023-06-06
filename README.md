@@ -27,8 +27,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://faithnkantha.github.io/order-summary/)
+- Live Site URL: [Add live site URL here](https://order-summary-one-coral.vercel.app/)
 
 ## My process
 
