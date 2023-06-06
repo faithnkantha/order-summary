@@ -19,6 +19,8 @@
 ## Overview
 
 ### Screenshot
+![image](https://github.com/faithnkantha/order-summary/assets/99466752/f0f6e70c-d4da-45b1-8e0a-ade7afe52e98)
+
 ![result](https://github.com/faithnkantha/order-summary/assets/99466752/82f21b0e-e33c-4522-9607-d994f047b24f)
 
 
